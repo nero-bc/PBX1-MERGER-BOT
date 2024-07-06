@@ -35,8 +35,6 @@ Bugs should be reported at: [Telegram Group](https://t.me/yo_codes_support)
 + Log Channel to store all merged videos
 
 ```
-## Deploy Tutorial : 
-[![Watch the video](https://img.youtube.com/vi/H-xVk_4zccs/hqdefault.jpg)](https://youtu.be/H-xVk_4zccs)
 
 ## Deploy(at your own risk) :
 <p><a href="https://heroku.com/deploy?template=https://github.com/yashoswalyo/MERGE-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
@@ -48,11 +46,6 @@ Add `HEROKU_API_KEY` <br>
 Add `HEROKU_APP_NAME` <br>
 Add `CONFIG_FILE_URL` <br>
 Goto `Actions > Manual Deploy To Heroku > Run Workflow`
-
-### OR
-Coming soon
-## Tutorial to get MongoDB URI:
-[![Watch the video](https://img.youtube.com/vi/OfQ7xxMylV4/hqdefault.jpg)](https://youtu.be/OfQ7xxMylV4)
 
 
 ## Config File Variables :
@@ -86,8 +79,8 @@ stats - (admin only) check bots stats
 
 ## Self Host
 ```sh
-$ git clone https://github.com/yashoswalyo/MERGE-BOT.git
-$ cd MERGE-BOT
+$ git clone https://github.com/PBX1-BOTS/PBX1-MERGE-BOT.git
+$ cd PBX1-MERGE-BOT
 $ sudo apt-get install python3 python3-pip ffmpeg
 $ pip3 install -U pip
 $ pip3 install -U -r requirements.txt
@@ -98,7 +91,7 @@ $ bash start.sh
 ## License
 ```
 Merge Bot, Telegram Video Merge Bot
-Copyright (c) 2021  Yash Oswal <https://github.com/yashoswalyo>
+Copyright (c) 2021  PBX1 BOTS <https://github.com/PBX1-BOTS>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -116,7 +109,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/yashoswalyo) for [Nothing](https://github.com/yashoswalyo/MERGE-BOT) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [Abir Hasan](https://github.com/AbirHasan2005) for his wonderful [code](https://github.com/AbirHasan2005/VideoMerge-Bot) ❤️
-- [Jigarvarma2005](https://github.com/Jigarvarma2005) and [SpechIDE](https://t.me/spechide) for helping me to fix bugs 🤓
+- [Me](https://github.com/PBX1-BOTS)
