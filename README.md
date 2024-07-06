@@ -12,8 +12,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/yashoswalyo/MERGE-BOT?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yashoswalyo/MERGE-BOT)
 
-An Telegram Bot By [Yash Oswal](https://t.me/yashoswalyo) To Merge multiple Videos in Telegram into single video. <br>
-Bugs should be reported at: [Telegram Group](https://t.me/yo_codes_support)
+An Telegram Bot By [PBX1 BOTS](https://t.me/PBX1_BOTS) To Merge multiple Videos in Telegram into single video. <br>
+Bugs should be reported at: [Telegram Group](https://t.me/PBX1_SUPPORT_CHAT)
 
 ```diff
 - TODO's:
@@ -109,4 +109,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/PBX1-BOTS)
+- [PBX1-BOTS](https://github.com/PBX1-BOTS)
